@@ -5,7 +5,7 @@
 // @namespace       https://www.github.com/Zren
 // @icon            https://reddit.com/favicon.ico
 // @version         50
-// @include         https://*.reddit.com/*
+// @match           https://*.reddit.com/*
 // @grant           GM_addStyle
 // ==/UserScript==
 
